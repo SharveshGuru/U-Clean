@@ -2,11 +2,13 @@ brainstorming session begins!
 U-clean
 Introduction
 
-The U-clean is a non-profit organisation developing and scaling technologies to rid of the plastic in the world. Website aims To clean the waste in ocean via Government 
-and Non-Government organisation.Our website aims to protect plant,species and Human welfare.Our website works also with volunteers.Our website has a mail column where we 
-respond within three days.Our Website has a column where you can support us to complete our mission to get rid of the plastic in the world. This means we plan put people
-out of business once we accomplish our goals. 
+The U-clean is a non-profit organisation developing and scaling technologies to rid the plastic in the world. Website aims To clean the waste in the world via Government 
+and Non-Government organisation. Our website aims to protect plant, species and Human welfare.Our website works also with volunteers.Our website has a mail column where 
+we respond within three days. Our Website has a column where you can support us to complete our mission to get rid of the plastic in the world. This means we plan to put 
+people out of business once we accomplish our goals. 
 
-
-
-
+Ocean
+Our website connects with people to create laws that will be proposed to the government to eliminate the use of plastic. Our website Artifical Integellence tracks ships 
+when they enter restricted area and alerts the coast guard. Our website shows the user the amount of plastic they have contributed in the ocean which in turn causes   
+the death of species by plastic. This motivates the user to try his/her best to eliminate the use of plastic. Our website connects with shipping companies to eliminate  
+their use of plastic in the ocean.
