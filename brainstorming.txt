@@ -17,7 +17,7 @@ Connecting Volunteers for a social cause, spreading awarness about cleaning wate
 1.Rally
 2.Cleaning the Lakes /Rivers
 3.Ocean Friendly Garden
-4. Cleaning The cities/locality
+4.Cleaning The cities/locality
 5.Cleaning Beaches
 6.Conducting Awareness Programmes
 7.Plastic bottles and bags should be avoided
@@ -29,5 +29,7 @@ Connecting Volunteers for a social cause, spreading awarness about cleaning wate
 13.Watershed restoration
 14.Wastewater reuse
 15.Green streets
-
+16.tree plantation drive
+17.Blue water task force
+18.Rivers should not be used for washing clothes or bathing animals
 
